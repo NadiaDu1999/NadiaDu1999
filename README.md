@@ -14,7 +14,9 @@
   </a>
 </div>
 
-# Hi there 👋🏽 I'm Nadia!
+# 👋🏽 Hi there, I'm Nadia!
+
+Welcome to my Github profile! I am passionate about bridging the gap between data and strategy, turning insights into more than just numbers, but powerful tools that, with the right questions, timing, and analysis, drive smarter decision-making and sustainable business growth.
 
 ## About Me
 
@@ -25,6 +27,10 @@
 
 ## 💻 Skills
 
+- Languages: SQL, Python, R,
+- Data Visualization: Power BI, Matplotlib, Seaborn
+- Data Manipulation: Pandas, SQL, DAX
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
@@ -34,6 +40,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
+
+## 📚 Education
+- Master of Analytics with Distinction, RMIT University
+- Bachelor's Degree of Economics, Thammasat University
 
 ## 🔥GitHub Stats 
 
