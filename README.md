@@ -14,16 +14,16 @@
   </a>
 </div>
 
-# Hi there 👋
+# Hi there 👋🏽 I'm Nadia!
 
 ## About Me
 
-- I am a data analyst skilled in SQL, Python, and Power BI!  
+- ⭐️ I am a data analyst skilled in SQL, Python, and Power BI!  
 - 🔭 I’m currently enhancing my SQL skills, focusing on data cleaning, analysis, and building a Human Resources dashboard in Power BI.  
 - 🌱 I recently built an interactive E-commerce Sales Dashboard Analysis. Check it out [here](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/ecd3ccae0e79db2eb7245c49831f42e7?challenge=onyx-data-november-2025)  
 - 🏃🏽‍♀️ I am also a marathon runner. Check out my running analysis [here](https://github.com/NadiaDu1999/Python-Data-Preprocessing-and-Visualization)  
 
-## Skills
+## 💻 Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" />
@@ -35,8 +35,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
-## GitHub Stats 
+## 🔥GitHub Stats 
 
-[![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiadu1999&count_private=false&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
+[![Nadia's GitHub stats](https://github-readme-stats-hc6y.vercel.app/api?username=NadiaDu1999&count_private=false&show_icons=true&theme=radical&hide_rank=false)](https://github.com/NadiaDu1999/github-readme-stats) 
+
+
+
 
 
