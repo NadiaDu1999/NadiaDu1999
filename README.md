@@ -21,7 +21,7 @@ Welcome to my Github profile! I am passionate about bridging the gap between dat
 ## About Me
 
 - ⭐️ I am a data analyst skilled in SQL, Python, and Power BI!  
-- 🔭 I’m currently enhancing my SQL skills, focusing on data cleaning, analysis, and building a Human Resources dashboard in Power BI.  
+- 🔭 I’m currently enhancing my SQL skills, focusing on data cleaning, analysis, and building an interactive dashboard in Power BI.  
 - 🌱 I recently built an interactive E-commerce Sales Dashboard Analysis. Check it out [here](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/ecd3ccae0e79db2eb7245c49831f42e7?challenge=onyx-data-november-2025)  
 - 🏃🏽‍♀️ I am also a marathon runner. Check out my running analysis [here](https://github.com/NadiaDu1999/Python-Data-Preprocessing-and-Visualization)  
 
